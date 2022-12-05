@@ -1,4 +1,4 @@
-Describe: function dice();
+Describe: function diceRoll();
 
 Test: "It should generate a random number"
 Code: function dice() {
